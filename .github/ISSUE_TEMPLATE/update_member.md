@@ -1,8 +1,8 @@
 ---
-name: add_new_member
-about: add new member
-title: 리스트 추가 요청입니다
-labels: Add New
+name: update_member
+about: update member info
+title: 멤버 정보 업데이트
+labels: Update
 assignees: devinan
 
 ---
@@ -10,10 +10,13 @@ assignees: devinan
 <!--
 수정시 _로 감싸져 있는 부분을 지우고 본인 정보를 입력하시면 됩니다.
 수정 후 예시:
+**Ex-information:** Nico
 **NomadCoders Profile:** https://nomadcoders.co/users/serranoarevalo
 **Slack Nickname:** 니꼬
 **Nomad Study 기수:** 1기
 -->
+
+**Ex-information:** _이전 정보 닉네임 또는 유저네임_
 
 **NomadCoders Profile:** _노마드코더 사이트 프로필 URL (ex. https://nomadcoders.co/users/serranoarevalo)_
 **Slack Nickname:** _노마드코더 슬랙 닉네임_
