@@ -37,9 +37,9 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 ## Github List
 
 
-| Profile(NomadCoders)                                        | Nickname(Slack)  | Github                                               |
-| ----------------------------------------------------------- | ---------------- | ---------------------------------------------------- |
-| [Devinan](https://nomadcoders.co/users/devinan.hr)               | devinan           | [@devinan](https://github.com/devinan)           |
-| [my-roki](https://nomadcoders.co/users/myroki)              | my-roki          | [@my-roki](https://github.com/my-roki)               |
-| [정혜인](https://nomadcoders.co/users/myroki)              | Nini          | [@Heyyyin](https://github.com/Heyyyin)               |
-| [hyeongwookimdev](https://nomadcoders.co/users/hyeongwookim.dev)              | 김형우          | [@hyeongwookimdev](https://github.com/hyeongwookimdev)               |
+| Profile(NomadCoders)                                        | Nickname(Slack)  | Github                                                       |
+| ----------------------------------------------------------- | ---------------- | ------------------------------------------------------------ |
+| [Devinan](https://nomadcoders.co/users/devinan.hr)                 | devinan           | [@devinan](https://github.com/devinan)               |
+| [hyeongwookimdev](https://nomadcoders.co/users/hyeongwookim.dev)   | 김형우          | [@hyeongwookimdev](https://github.com/hyeongwookimdev)   |
+| [my-roki](https://nomadcoders.co/users/myroki)                     | my-roki       | [@my-roki](https://github.com/my-roki)                   |
+| [정혜인](https://nomadcoders.co/users/myroki)                        | Nini          | [@Heyyyin](https://github.com/Heyyyin)                   |
