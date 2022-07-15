@@ -36,7 +36,6 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 
 ## Github List
 
-<!-- 노마드 코더 노마드 10주 스터디 기수 별로 구분 할건지 아니면 전체 포함할건지 고민중...  -->
 
 | Profile(NomadCoders)                                        | Nickname(Slack)  | Github                                               |
 | ----------------------------------------------------------- | ---------------- | ---------------------------------------------------- |
