@@ -7,7 +7,7 @@ assignees: devinan
 
 ---
 
-<!-- 풀리퀘스트시 해당 파일은 수정하지 마세요 -->
+<!-- 위의 코드는 이슈할때 탬플릿입니다. 위쪽은 수정하시지 마세요 -->
 
 <!--
 수정시 _로 감싸져 있는 부분을 지우고 본인 정보를 입력하시면 됩니다.
@@ -24,4 +24,4 @@ assignees: devinan
 **Slack Nickname:** _노마드코더 슬랙 닉네임_
 **Nomad Study 기수:** _노마드 스터디 기수 (ex. 1기)_
 
-<!-- develop branch에 pull request를 이용해주세요!  -->
+<!-- pull request를 이용해주세요!  -->
