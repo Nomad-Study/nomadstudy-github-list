@@ -25,7 +25,6 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 
 **노마드 스터디가 궁금하다면 ?** [Check Out](https://nomadcoders.co/nomad-study)
 
-
 ## Repository Maintainer
 
 해당 레포리지를 관리하고 있는 맴버입니다.
@@ -35,7 +34,6 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [Devinan](https://nomadcoders.co/users/devinan.hr)      | devinan           | [@devinan](https://github.com/devinan) |
 
 ## Github List
-
 
 | Profile(NomadCoders)                                        | Nickname(Slack)  | Github                                                       |
 | ----------------------------------------------------------- | ---------------- | ------------------------------------------------------------ |
@@ -48,3 +46,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [my-roki](https://nomadcoders.co/users/myroki)                     | my-roki       | [@my-roki](https://github.com/my-roki)                   |
 | [김형민](https://nomadcoders.co/users/rlagud2005)                       | Tinubee           | [@Tinubee](https://github.com/Tinubee)        |
 | [정혜인](https://nomadcoders.co/users/hijung1024)                        | Nini          | [@Heyyyin](https://github.com/Heyyyin)                   |
+| [zoocasso](https://nomadcoders.co/users/zoocasso)                | zoocasso        | [@zoocasso](https://github.com/zoocasso)               |
