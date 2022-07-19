@@ -4,6 +4,7 @@
     </a>
 
 # Nomad Study Github List
+
 > 노마드 코더에서 진행하는 노마드 10주 스터디 맴버들의 깃헙 리스트입니다.
 
 Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
@@ -13,6 +14,7 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 ## Contributing
 
 노마드 10주 스터디 맴버들 위주로 pull request 나 issue 보내주세요
+
 - 템플릿을 변형/이용을 허락해주신 [@flynnpark](https://github.com/flynnpark) 님 감사합니다.
 
 ## Nicolas
@@ -25,26 +27,25 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 
 **노마드 스터디가 궁금하다면 ?** [Check Out](https://nomadcoders.co/nomad-study)
 
-
 ## Repository Maintainer
 
 해당 레포리지를 관리하고 있는 맴버입니다.
 
-| Profile(NomadCoders)                                 | Nickname(Slack) | Github                                     |
-| ---------------------------------------------------- | --------------- | ------------------------------------------ |
-| [Devinan](https://nomadcoders.co/users/devinan.hr)      | devinan           | [@devinan](https://github.com/devinan) |
+| Profile(NomadCoders)                               | Nickname(Slack) | Github                                 |
+| -------------------------------------------------- | --------------- | -------------------------------------- |
+| [Devinan](https://nomadcoders.co/users/devinan.hr) | devinan         | [@devinan](https://github.com/devinan) |
 
 ## Github List
 
-
-| Profile(NomadCoders)                                        | Nickname(Slack)  | Github                                                       |
-| ----------------------------------------------------------- | ---------------- | ------------------------------------------------------------ |
-| [Devinan](https://nomadcoders.co/users/devinan.hr)                 | devinan           | [@devinan](https://github.com/devinan)               |
-| [Devxlnt](https://nomadcoders.co/users/devxlnt)                    | DevXLNT       | [@DevXLNT](https://github.com/DevXLNT)                   |
-| [Gael An](https://nomadcoders.co/users/vermouth)                        | Vermouth          | [@vermouth0106](https://github.com/vermouth0106) |         
-| [Gonan](https://nomadcoders.co/users/gonan)                            | Gonan      | [@YeeunKo](https://github.com/YeeunKo)        |
-| [hyeongwookimdev](https://nomadcoders.co/users/hyeongwookim.dev)   | 김형우          | [@hyeongwookimdev](https://github.com/hyeongwookimdev)   |
-| [Jinsu Kim](https://nomadcoders.co/users/jinskim)                       | Jinskim           | [@MeluvRose](https://github.com/MeluvRose)        |
-| [my-roki](https://nomadcoders.co/users/myroki)                     | my-roki       | [@my-roki](https://github.com/my-roki)                   |
-| [김형민](https://nomadcoders.co/users/rlagud2005)                       | Tinubee           | [@Tinubee](https://github.com/Tinubee)        |
-| [정혜인](https://nomadcoders.co/users/hijung1024)                        | Nini          | [@Heyyyin](https://github.com/Heyyyin)                   |
+| Profile(NomadCoders)                                             | Nickname(Slack) | Github                                                 |
+| ---------------------------------------------------------------- | --------------- | ------------------------------------------------------ |
+| [Devinan](https://nomadcoders.co/users/devinan.hr)               | devinan         | [@devinan](https://github.com/devinan)                 |
+| [Devxlnt](https://nomadcoders.co/users/devxlnt)                  | DevXLNT         | [@DevXLNT](https://github.com/DevXLNT)                 |
+| [Gael An](https://nomadcoders.co/users/vermouth)                 | Vermouth        | [@vermouth0106](https://github.com/vermouth0106)       |
+| [Gonan](https://nomadcoders.co/users/gonan)                      | Gonan           | [@YeeunKo](https://github.com/YeeunKo)                 |
+| [hyeongwookimdev](https://nomadcoders.co/users/hyeongwookim.dev) | 김형우          | [@hyeongwookimdev](https://github.com/hyeongwookimdev) |
+| [Jinsu Kim](https://nomadcoders.co/users/jinskim)                | Jinskim         | [@MeluvRose](https://github.com/MeluvRose)             |
+| [my-roki](https://nomadcoders.co/users/myroki)                   | my-roki         | [@my-roki](https://github.com/my-roki)                 |
+| [김형민](https://nomadcoders.co/users/rlagud2005)                | Tinubee         | [@Tinubee](https://github.com/Tinubee)                 |
+| [정혜인](https://nomadcoders.co/users/hijung1024)                | Nini            | [@Heyyyin](https://github.com/Heyyyin)                 |
+| [zoocasso](https://nomadcoders.co/users/zoocasso)                | zoocasso        | [@zoocasso](https://github.com/zoocasso)               |
