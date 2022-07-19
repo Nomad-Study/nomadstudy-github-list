@@ -42,6 +42,9 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [Devinan](https://nomadcoders.co/users/devinan.hr)                 | devinan           | [@devinan](https://github.com/devinan)               |
 | [Devxlnt](https://nomadcoders.co/users/devxlnt)                    | DevXLNT       | [@DevXLNT](https://github.com/DevXLNT)                   |
 | [Gael An](https://nomadcoders.co/users/vermouth)                        | Vermouth          | [@vermouth0106](https://github.com/vermouth0106) |         
+| [Gonan](https://nomadcoders.co/users/gonan)                            | Gonan      | [@YeeunKo](https://github.com/YeeunKo)        |
 | [hyeongwookimdev](https://nomadcoders.co/users/hyeongwookim.dev)   | 김형우          | [@hyeongwookimdev](https://github.com/hyeongwookimdev)   |
+| [Jinsu Kim](https://nomadcoders.co/users/jinskim)                       | Jinskim           | [@MeluvRose](https://github.com/MeluvRose)        |
 | [my-roki](https://nomadcoders.co/users/myroki)                     | my-roki       | [@my-roki](https://github.com/my-roki)                   |
+| [김형민](https://nomadcoders.co/users/rlagud2005)                       | Tinubee           | [@Tinubee](https://github.com/Tinubee)        |
 | [정혜인](https://nomadcoders.co/users/hijung1024)                        | Nini          | [@Heyyyin](https://github.com/Heyyyin)                   |
