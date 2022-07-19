@@ -45,3 +45,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [hyeongwookimdev](https://nomadcoders.co/users/hyeongwookim.dev)   | 김형우          | [@hyeongwookimdev](https://github.com/hyeongwookimdev)   |
 | [my-roki](https://nomadcoders.co/users/myroki)                     | my-roki       | [@my-roki](https://github.com/my-roki)                   |
 | [정혜인](https://nomadcoders.co/users/hijung1024)                        | Nini          | [@Heyyyin](https://github.com/Heyyyin)                   |
+| [김형민](https://nomadcoders.co/users/rlagud2005)                        | Nini          | [@Tinubee](https://github.com/Tinubee)                   |
