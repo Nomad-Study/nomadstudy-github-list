@@ -46,3 +46,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [my-roki](https://nomadcoders.co/users/myroki)                     | my-roki       | [@my-roki](https://github.com/my-roki)                   |
 | [정혜인](https://nomadcoders.co/users/hijung1024)                        | Nini          | [@Heyyyin](https://github.com/Heyyyin)                   |
 | [Jinsu Kim](https://nomadcoders.co/users/jinskim)                       | Jinskim           | [@MeluvRose](https://github.com/MeluvRose)        |
+| [김형민](https://nomadcoders.co/users/rlagud2005)                       | Tinubee           | [@Tinubee](https://github.com/Tinubee)        |
