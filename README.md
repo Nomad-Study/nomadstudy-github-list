@@ -47,3 +47,5 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [김형민](https://nomadcoders.co/users/rlagud2005)                       | Tinubee           | [@Tinubee](https://github.com/Tinubee)        |
 | [정혜인](https://nomadcoders.co/users/hijung1024)                        | Nini          | [@Heyyyin](https://github.com/Heyyyin)                   |
 | [zoocasso](https://nomadcoders.co/users/zoocasso)                | zoocasso        | [@zoocasso](https://github.com/zoocasso)               |
+| [phsik3260](https://nomadcoders.co/users/phsik3260)                | 현식        | [@phsik3260](https://github.com/phsik3260)               |
+
