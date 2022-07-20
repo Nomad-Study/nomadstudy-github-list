@@ -49,3 +49,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [zoocasso](https://nomadcoders.co/users/zoocasso)                  | zoocasso         | [@zoocasso](https://github.com/zoocasso)                     |
 | [김형민](https://nomadcoders.co/users/rlagud2005)                    | Tinubee          | [@Tinubee](https://github.com/Tinubee)                       |
 | [정혜인](https://nomadcoders.co/users/hijung1024)                    | Nini             | [@Heyyyin](https://github.com/Heyyyin)                       |
+| [정민교](https://nomadcoders.co/users/alsry9223sebfp)                | 밍닝구             | [@alsry922](https://github.com/alsry922)                     |
