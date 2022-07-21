@@ -52,3 +52,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [정혜인](https://nomadcoders.co/users/hijung1024)                    | Nini             | [@Heyyyin](https://github.com/Heyyyin)                       |
 | [K-AVLB](https://nomadcoders.co/users/mdj970930)                   | snailmin         | [@K-AVLB](https://github.com/K-AVLB)                         |
 | [전석희](https://nomadcoders.co/users/r0otstat1c)                    | 전석희         | [@juninjune](https://github.com/juninjune)                       |
+| [김문종](https://nomadcoders.co/users/overscrap)                     | hushkmj       | [@overscrap](https://github.com/overscrap)                       |
