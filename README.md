@@ -50,3 +50,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [김형민](https://nomadcoders.co/users/rlagud2005)                    | Tinubee          | [@Tinubee](https://github.com/Tinubee)                       |
 | [정민교](https://nomadcoders.co/users/alsry9223sebfp)                | 밍닝구             | [@alsry922](https://github.com/alsry922)                     |
 | [정혜인](https://nomadcoders.co/users/hijung1024)                    | Nini             | [@Heyyyin](https://github.com/Heyyyin)                       |
+| [K-AVLB](https://nomadcoders.co/users/mdj970930)                   | snailmin         | [@K-AVLB](https://github.com/K-AVLB)                         |
