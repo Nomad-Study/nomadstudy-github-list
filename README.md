@@ -53,3 +53,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [전석희](https://nomadcoders.co/users/r0otstat1c)                    | 전석희             | [@juninjune](https://github.com/juninjune)                   |
 | [정민교](https://nomadcoders.co/users/alsry9223sebfp)                | 밍닝구             | [@alsry922](https://github.com/alsry922)                     |
 | [정혜인](https://nomadcoders.co/users/hijung1024)                    | Nini             | [@Heyyyin](https://github.com/Heyyyin)                       |
+| [jh lee](https://nomadcoders.co/users/gkgk545)                     | jhlee             | [@gkgk545](https://github.com/gkgk545)                       |
