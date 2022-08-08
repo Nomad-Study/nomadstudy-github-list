@@ -56,3 +56,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [정민교](https://nomadcoders.co/users/alsry9223sebfp)                | 밍닝구             | [@alsry922](https://github.com/alsry922)                     |
 | [정혜인](https://nomadcoders.co/users/hijung1024)                    | Nini             | [@Heyyyin](https://github.com/Heyyyin)                       |
 | [현진](https://nomadcoders.co/users/hyunjin0376)                    | 현진              | [@zinnli](https://github.com/zinnli)                          |
+| [김펭긴](https://nomadcoders.co/users/clfrck)                        | Penguin Kim      | [@PenguinKKIM](https://github.com/PenguinKKIM)               |
