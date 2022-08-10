@@ -57,3 +57,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [정혜인](https://nomadcoders.co/users/hijung1024)                    | Nini             | [@Heyyyin](https://github.com/Heyyyin)                       |
 | [현진](https://nomadcoders.co/users/hyunjin0376)                    | 현진              | [@zinnli](https://github.com/zinnli)                          |
 | [김펭긴](https://nomadcoders.co/users/clfrck)                        | Penguin Kim      | [@PenguinKKIM](https://github.com/PenguinKKIM)               |
+| [Jia](https://nomadcoders.co/users/jangjia01234)                   | 장지아 Jia Jang    | [@jangjia01234](https://github.com/jangjia01234)             |
