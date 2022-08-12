@@ -45,12 +45,13 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [jh lee](https://nomadcoders.co/users/gkgk545)                     | jhlee             | [@gkgk545](https://github.com/gkgk545)                       |
 | [Jinsu Kim](https://nomadcoders.co/users/jinskim)                  | Jinskim          | [@MeluvRose](https://github.com/MeluvRose)                   |
 | [K-AVLB](https://nomadcoders.co/users/mdj970930)                   | snailmin         | [@K-AVLB](https://github.com/K-AVLB)                         |
-| [Kwon kyungzun](https://nomadcoders.co/users/zun0323)              | Brooklin          | [brooklin23](https://github.com/brooklin23)                  |
+| [Kwon kyungzun](https://nomadcoders.co/users/zun0323)              | Brooklin          | [@brooklin23](https://github.com/brooklin23)                 |
 | [my-roki](https://nomadcoders.co/users/myroki)                     | my-roki          | [@my-roki](https://github.com/my-roki)                       |
 | [phsik3260](https://nomadcoders.co/users/phsik3260)                | 현식              | [@phsik3260](https://github.com/phsik3260)                   |
 | [YENA KWON](https://nomadcoders.co/users/ynkwon114ve29h)           | Yena Kwon        | [@beyondthedream](https://github.com/beyondthedream)         |
 | [zoocasso](https://nomadcoders.co/users/zoocasso)                  | zoocasso         | [@zoocasso](https://github.com/zoocasso)                     |
 | [김문종](https://nomadcoders.co/users/overscrap)                     | hushkmj          | [@overscrap](https://github.com/overscrap)                   |
+| [김펭긴](https://nomadcoders.co/users/clfrck)                        | Penguin Kim      | [@PenguinKKIM](https://github.com/PenguinKKIM)               |
 | [김형민](https://nomadcoders.co/users/rlagud2005)                    | Tinubee          | [@Tinubee](https://github.com/Tinubee)                       |
 | [전석희](https://nomadcoders.co/users/r0otstat1c)                    | 전석희             | [@juninjune](https://github.com/juninjune)                   |
 | [정민교](https://nomadcoders.co/users/alsry9223sebfp)                | 밍닝구             | [@alsry922](https://github.com/alsry922)                     |
