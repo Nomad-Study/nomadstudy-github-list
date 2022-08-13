@@ -57,4 +57,5 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [정민교](https://nomadcoders.co/users/alsry9223sebfp)                | 밍닝구             | [@alsry922](https://github.com/alsry922)                     |
 | [정혜인](https://nomadcoders.co/users/hijung1024)                    | Nini             | [@Heyyyin](https://github.com/Heyyyin)                       |
 | [현진](https://nomadcoders.co/users/hyunjin0376)                    | 현진              | [@zinnli](https://github.com/zinnli)                          |
+| [Jia](https://nomadcoders.co/users/jangjia01234)                   | 장지아 Jia Jang    | [@jangjia01234](https://github.com/jangjia01234)             |
 | [HAERANGMAN](https://nomadcoders.co/users/haerangman)              | HAERANGMAN       | [@HAERANGMAN](https://github.com/HAERANGMAN)                          |
