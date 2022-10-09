@@ -60,3 +60,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [정혜인](https://nomadcoders.co/users/hijung1024)                    | Nini             | [@Heyyyin](https://github.com/Heyyyin)                       |
 | [현진](https://nomadcoders.co/users/hyunjin0376)                    | 현진              | [@zinnli](https://github.com/zinnli)                          |
 | [형준](https://nomadcoders.co/users/hyeongjoon)                     | 형준              | [@Kim-Hyeong-joon](https://github.com/Kim-Hyeong-joon)        |
+| [조형석](https://nomadcoders.co/users/fluorjo)                      | 조형석             | [@fluorjo](https://github.com/fluorjo)        |
