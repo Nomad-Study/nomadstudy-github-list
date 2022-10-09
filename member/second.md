@@ -14,4 +14,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 
 | Profile(NomadCoders)                                               | Nickname(Slack)  | Github                                                       |
 | ------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
-| [Name](https://nomadcoders.co/users/name)                 | nickname          | [@github](https://github.com/)                       |
+| [조형석](https://nomadcoders.co/users/fluorjo)                      | 조형석             | [@fluorjo](https://github.com/fluorjo)        |
