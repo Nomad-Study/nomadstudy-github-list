@@ -61,3 +61,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [현진](https://nomadcoders.co/users/hyunjin0376)                    | 현진              | [@zinnli](https://github.com/zinnli)                          |
 | [형준](https://nomadcoders.co/users/hyeongjoon)                     | 형준              | [@Kim-Hyeong-joon](https://github.com/Kim-Hyeong-joon)        |
 | [조형석](https://nomadcoders.co/users/fluorjo)                      | 조형석             | [@fluorjo](https://github.com/fluorjo)        |
+| [Kyuhyun Lee](https://nomadcoders.co/users/khlee1992)                      | 난코            | [@Nanco-L](https://github.com/Nanco-L)        |
