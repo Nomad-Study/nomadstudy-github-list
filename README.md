@@ -48,8 +48,10 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [Jinsu Kim](https://nomadcoders.co/users/jinskim)                  | Jinskim          | [@MeluvRose](https://github.com/MeluvRose)                   |
 | [K-AVLB](https://nomadcoders.co/users/mdj970930)                   | snailmin         | [@K-AVLB](https://github.com/K-AVLB)                         |
 | [Kwon kyungzun](https://nomadcoders.co/users/zun0323)              | Brooklin          | [@brooklin23](https://github.com/brooklin23)                 |
+| [Kyuhyun Lee](https://nomadcoders.co/users/khlee1992)              | 난코              | [@Nanco-L](https://github.com/Nanco-L)                        |
 | [my-roki](https://nomadcoders.co/users/myroki)                     | my-roki          | [@my-roki](https://github.com/my-roki)                       |
 | [phsik3260](https://nomadcoders.co/users/phsik3260)                | 현식              | [@phsik3260](https://github.com/phsik3260)                   |
+| [sunyeong-jeong](https://nomadcoders.co/users/gardenia1109)        | SY               | [@gardenia0917](https://github.com/gardenia0917)              |
 | [YENA KWON](https://nomadcoders.co/users/ynkwon114ve29h)           | Yena Kwon        | [@beyondthedream](https://github.com/beyondthedream)         |
 | [zoocasso](https://nomadcoders.co/users/zoocasso)                  | zoocasso         | [@zoocasso](https://github.com/zoocasso)                     |
 | [김문종](https://nomadcoders.co/users/overscrap)                     | hushkmj          | [@overscrap](https://github.com/overscrap)                   |
@@ -58,8 +60,6 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [전석희](https://nomadcoders.co/users/r0otstat1c)                    | 전석희             | [@juninjune](https://github.com/juninjune)                   |
 | [정민교](https://nomadcoders.co/users/alsry9223sebfp)                | 밍닝구             | [@alsry922](https://github.com/alsry922)                     |
 | [정혜인](https://nomadcoders.co/users/hijung1024)                    | Nini             | [@Heyyyin](https://github.com/Heyyyin)                       |
+| [조형석](https://nomadcoders.co/users/fluorjo)                       | 조형석            | [@fluorjo](https://github.com/fluorjo)                        |
 | [현진](https://nomadcoders.co/users/hyunjin0376)                    | 현진              | [@zinnli](https://github.com/zinnli)                          |
 | [형준](https://nomadcoders.co/users/hyeongjoon)                     | 형준              | [@Kim-Hyeong-joon](https://github.com/Kim-Hyeong-joon)        |
-| [조형석](https://nomadcoders.co/users/fluorjo)                      | 조형석             | [@fluorjo](https://github.com/fluorjo)        |
-| [Kyuhyun Lee](https://nomadcoders.co/users/khlee1992)                      | 난코            | [@Nanco-L](https://github.com/Nanco-L)        |
-| [sunyeong-jeong](https://nomadcoders.co/users/gardenia1109)                   | SY            | [@gardenia0917](https://github.com/gardenia0917)        |
