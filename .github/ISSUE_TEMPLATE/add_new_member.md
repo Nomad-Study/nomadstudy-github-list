@@ -17,8 +17,8 @@ assignees: devinan
 **Nomad Study 기수:** 1기
 -->
 
-**NomadCoders Profile:** _노마드코더 사이트 프로필 URL (ex. https://nomadcoders.co/users/serranoarevalo)_
-**Slack Nickname:** _노마드코더 슬랙 닉네임_
-**Nomad Study 기수:** _노마드 스터디 기수 (ex. 1기)_
+**NomadCoders Profile:** https://nomadcoders.co/users/notnormal8078
+**Slack Nickname:** 딘
+**Nomad Study 기수:** 2기
 
 <!-- pull request를 이용해주세요!  -->
