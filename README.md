@@ -66,3 +66,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [김재원](https://nomadcoders.co/users/wodnjs3580-B7nYpr)                     | 김재원             | [@Jaewon94](https://github.com/Jaewon94)        |
 | [이승아](https://nomadcoders.co/users/lsa3117)                     | 승아             | [@seunga-lee](https://github.com/seunga-lee)        |
 | [Namyunha](https://nomadcoders.co/users/ajs998)                     | 남윤하            | [@Namyunha](https://github.com/Namyunha)        |
+| [notnormal8078](https://nomadcoders.co/users/notnormal8078)                     | 딘            | [@deanyoon](https://github.com/deanyoon)        |
