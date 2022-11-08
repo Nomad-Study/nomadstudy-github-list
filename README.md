@@ -50,20 +50,20 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [Kwon kyungzun](https://nomadcoders.co/users/zun0323)              | Brooklin          | [@brooklin23](https://github.com/brooklin23)                 |
 | [Kyuhyun Lee](https://nomadcoders.co/users/khlee1992)              | 난코              | [@Nanco-L](https://github.com/Nanco-L)                        |
 | [my-roki](https://nomadcoders.co/users/myroki)                     | my-roki          | [@my-roki](https://github.com/my-roki)                       |
-| [Namyunha](https://nomadcoders.co/users/ajs998)                     | 남윤하            | [@Namyunha](https://github.com/Namyunha)        |
-| [notnormal8078](https://nomadcoders.co/users/notnormal8078)                     | 딘            | [@deanyoon](https://github.com/deanyoon)        |
 | [phsik3260](https://nomadcoders.co/users/phsik3260)                | 현식              | [@phsik3260](https://github.com/phsik3260)                   |
 | [sunyeong-jeong](https://nomadcoders.co/users/gardenia1109)        | SY               | [@gardenia0917](https://github.com/gardenia0917)              |
 | [YENA KWON](https://nomadcoders.co/users/ynkwon114ve29h)           | Yena Kwon        | [@beyondthedream](https://github.com/beyondthedream)         |
 | [zoocasso](https://nomadcoders.co/users/zoocasso)                  | zoocasso         | [@zoocasso](https://github.com/zoocasso)                     |
 | [김문종](https://nomadcoders.co/users/overscrap)                     | hushkmj          | [@overscrap](https://github.com/overscrap)                   |
-| [김재원](https://nomadcoders.co/users/wodnjs3580-B7nYpr)                     | 김재원             | [@Jaewon94](https://github.com/Jaewon94)        |
 | [김펭긴](https://nomadcoders.co/users/clfrck)                        | Penguin Kim      | [@PenguinKKIM](https://github.com/PenguinKKIM)               |
 | [김형민](https://nomadcoders.co/users/rlagud2005)                    | Tinubee          | [@Tinubee](https://github.com/Tinubee)                       |
-| [이승아](https://nomadcoders.co/users/lsa3117)                     | 승아             | [@seunga-lee](https://github.com/seunga-lee)        |
 | [전석희](https://nomadcoders.co/users/r0otstat1c)                    | 전석희             | [@juninjune](https://github.com/juninjune)                   |
 | [정민교](https://nomadcoders.co/users/alsry9223sebfp)                | 밍닝구             | [@alsry922](https://github.com/alsry922)                     |
 | [정혜인](https://nomadcoders.co/users/hijung1024)                    | Nini             | [@Heyyyin](https://github.com/Heyyyin)                       |
 | [조형석](https://nomadcoders.co/users/fluorjo)                       | 조형석            | [@fluorjo](https://github.com/fluorjo)                        |
 | [현진](https://nomadcoders.co/users/hyunjin0376)                    | 현진              | [@zinnli](https://github.com/zinnli)                          |
 | [형준](https://nomadcoders.co/users/hyeongjoon)                     | 형준              | [@Kim-Hyeong-joon](https://github.com/Kim-Hyeong-joon)        |
+| [김재원](https://nomadcoders.co/users/wodnjs3580-B7nYpr)                     | 김재원             | [@Jaewon94](https://github.com/Jaewon94)        |
+| [이승아](https://nomadcoders.co/users/lsa3117)                     | 승아             | [@seunga-lee](https://github.com/seunga-lee)        |
+| [Namyunha](https://nomadcoders.co/users/ajs998)                     | 남윤하            | [@Namyunha](https://github.com/Namyunha)        |
+| [notnormal8078](https://nomadcoders.co/users/notnormal8078)                     | 딘            | [@deanyoon](https://github.com/deanyoon)        |
