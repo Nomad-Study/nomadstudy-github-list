@@ -15,5 +15,9 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | Profile(NomadCoders)                                               | Nickname(Slack)  | Github                                                       |
 | ------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
 | [Kyuhyun Lee](https://nomadcoders.co/users/khlee1992)              | 난코              | [@Nanco-L](https://github.com/Nanco-L)                       |
+| [Namyunha](https://nomadcoders.co/users/ajs998)                     | 남윤하            | [@Namyunha](https://github.com/Namyunha)        |
+| [notnormal8078](https://nomadcoders.co/users/notnormal8078)                     | 딘            | [@deanyoon](https://github.com/deanyoon)        |
 | [sunyeong-jeong](https://nomadcoders.co/users/gardenia1109)        | SY               | [@gardenia0917](https://github.com/gardenia0917)             |
+| [김재원](https://nomadcoders.co/users/wodnjs3580-B7nYpr)                     | 김재원             | [@Jaewon94](https://github.com/Jaewon94)        |
+| [이승아](https://nomadcoders.co/users/lsa3117)                     | 승아             | [@seunga-lee](https://github.com/seunga-lee)        |
 | [조형석](https://nomadcoders.co/users/fluorjo)                       | 조형석             | [@fluorjo](https://github.com/fluorjo)                       |
