@@ -22,3 +22,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [이승아](https://nomadcoders.co/users/lsa3117)                     | 승아             | [@seunga-lee](https://github.com/seunga-lee)        |
 | [조형석](https://nomadcoders.co/users/fluorjo)                       | 조형석             | [@fluorjo](https://github.com/fluorjo)                       |
 | [jaehunyou](https://nomadcoders.co/users/jaehunyou)                       | jaehunyou          | [@jaehunyou](https://github.com/jaehunyou)                       |
+| [김광윤](https://nomadcoders.co/users/leorivk)                       | null       | [@leorivk](https://github.com/leorivk)                       |
