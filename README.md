@@ -69,3 +69,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [형준](https://nomadcoders.co/users/hyeongjoon)                     | 형준              | [@Kim-Hyeong-joon](https://github.com/Kim-Hyeong-joon)        |
 | [jaehunyou](https://nomadcoders.co/users/jaehunyou)                       | jaehunyou          | [@jaehunyou](https://github.com/jaehunyou)                       |
 | [김광윤](https://nomadcoders.co/users/leorivk)                       | null       | [@leorivk](https://github.com/leorivk)                       |
+| [정상원](https://nomadcoders.co/users/topcircle)                       | topcircle       | [@LifeFi](https://github.com/LifeFi)                       |
