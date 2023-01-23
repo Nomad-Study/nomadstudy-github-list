@@ -43,6 +43,7 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [Gonan](https://nomadcoders.co/users/gonan)                        | Gonan            | [@YeeunKo](https://github.com/YeeunKo)                       |
 | [HAERANGMAN](https://nomadcoders.co/users/haerangman)              | HAERANGMAN       | [@HAERANGMAN](https://github.com/HAERANGMAN)                 |
 | [hyeongwookimdev](https://nomadcoders.co/users/hyeongwookim.dev)   | 김형우             | [@hyeongwookimdev](https://github.com/hyeongwookimdev)       |
+| [jaehunyou](https://nomadcoders.co/users/jaehunyou)                       | jaehunyou          | [@jaehunyou](https://github.com/jaehunyou)                       |
 | [jh lee](https://nomadcoders.co/users/gkgk545)                     | jhlee             | [@gkgk545](https://github.com/gkgk545)                       |
 | [Jia](https://nomadcoders.co/users/jangjia01234)                   | 장지아 Jia Jang    | [@jangjia01234](https://github.com/jangjia01234)             |
 | [Jinsu Kim](https://nomadcoders.co/users/jinskim)                  | Jinskim          | [@MeluvRose](https://github.com/MeluvRose)                   |
@@ -56,18 +57,17 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [sunyeong-jeong](https://nomadcoders.co/users/gardenia1109)        | SY               | [@gardenia0917](https://github.com/gardenia0917)              |
 | [YENA KWON](https://nomadcoders.co/users/ynkwon114ve29h)           | Yena Kwon        | [@beyondthedream](https://github.com/beyondthedream)         |
 | [zoocasso](https://nomadcoders.co/users/zoocasso)                  | zoocasso         | [@zoocasso](https://github.com/zoocasso)                     |
+| [김광윤](https://nomadcoders.co/users/leorivk)                       | null       | [@leorivk](https://github.com/leorivk)                       |
 | [김문종](https://nomadcoders.co/users/overscrap)                     | hushkmj          | [@overscrap](https://github.com/overscrap)                   |
 | [김재원](https://nomadcoders.co/users/wodnjs3580-B7nYpr)                     | 김재원             | [@Jaewon94](https://github.com/Jaewon94)        |
 | [김펭긴](https://nomadcoders.co/users/clfrck)                        | Penguin Kim      | [@PenguinKKIM](https://github.com/PenguinKKIM)               |
 | [김형민](https://nomadcoders.co/users/rlagud2005)                    | Tinubee          | [@Tinubee](https://github.com/Tinubee)                       |
 | [이승아](https://nomadcoders.co/users/lsa3117)                     | 승아             | [@seunga-lee](https://github.com/seunga-lee)        |
+| [이준우](https://nomadcoders.co/users/joonwoo8657)                       | BeeGye    | [@BeeGye](https://github.com/BeeGye)                       |
 | [전석희](https://nomadcoders.co/users/r0otstat1c)                    | 전석희             | [@juninjune](https://github.com/juninjune)                   |
 | [정민교](https://nomadcoders.co/users/alsry9223sebfp)                | 밍닝구             | [@alsry922](https://github.com/alsry922)                     |
+| [정상원](https://nomadcoders.co/users/topcircle)                       | topcircle       | [@LifeFi](https://github.com/LifeFi)                       |
 | [정혜인](https://nomadcoders.co/users/hijung1024)                    | Nini             | [@Heyyyin](https://github.com/Heyyyin)                       |
 | [조형석](https://nomadcoders.co/users/fluorjo)                       | 조형석            | [@fluorjo](https://github.com/fluorjo)                        |
 | [현진](https://nomadcoders.co/users/hyunjin0376)                    | 현진              | [@zinnli](https://github.com/zinnli)                          |
 | [형준](https://nomadcoders.co/users/hyeongjoon)                     | 형준              | [@Kim-Hyeong-joon](https://github.com/Kim-Hyeong-joon)        |
-| [jaehunyou](https://nomadcoders.co/users/jaehunyou)                       | jaehunyou          | [@jaehunyou](https://github.com/jaehunyou)                       |
-| [김광윤](https://nomadcoders.co/users/leorivk)                       | null       | [@leorivk](https://github.com/leorivk)                       |
-| [정상원](https://nomadcoders.co/users/topcircle)                       | topcircle       | [@LifeFi](https://github.com/LifeFi)                       |
-| [이준우](https://nomadcoders.co/users/joonwoo8657)                       | BeeGye    | [@BeeGye](https://github.com/BeeGye)                       |
