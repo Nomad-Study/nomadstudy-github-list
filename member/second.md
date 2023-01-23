@@ -28,3 +28,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [김재원](https://nomadcoders.co/users/wodnjs3580-B7nYpr)                     | 김재원             | [@Jaewon94](https://github.com/Jaewon94)        |
 | [이승아](https://nomadcoders.co/users/lsa3117)                     | 승아             | [@seunga-lee](https://github.com/seunga-lee)        |
 | [조형석](https://nomadcoders.co/users/fluorjo)                       | 조형석             | [@fluorjo](https://github.com/fluorjo)                       |
+| [조형석](https://nomadcoders.co/users/fluorjo)                       | 조형석             | [@fluorjo](https://github.com/fluorjo)                       |
