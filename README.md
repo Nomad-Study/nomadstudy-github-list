@@ -39,6 +39,7 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | ------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
 | [Devinan](https://nomadcoders.co/users/devinan.hr)                 | devinan          | [@devinan](https://github.com/devinan)                       |
 | [Devxlnt](https://nomadcoders.co/users/devxlnt)                    | DevXLNT          | [@DevXLNT](https://github.com/DevXLNT)                       |
+| [ffenland](https://nomadcoders.co/users/ffenland)                     | ffen              | [@ffenland](https://github.com/ffenland)        |
 | [Gael An](https://nomadcoders.co/users/vermouth)                   | Vermouth         | [@vermouth0106](https://github.com/vermouth0106)             |   
 | [Gonan](https://nomadcoders.co/users/gonan)                        | Gonan            | [@YeeunKo](https://github.com/YeeunKo)                       |
 | [HAERANGMAN](https://nomadcoders.co/users/haerangman)              | HAERANGMAN       | [@HAERANGMAN](https://github.com/HAERANGMAN)                 |
@@ -71,4 +72,3 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [조형석](https://nomadcoders.co/users/fluorjo)                       | 조형석            | [@fluorjo](https://github.com/fluorjo)                        |
 | [현진](https://nomadcoders.co/users/hyunjin0376)                    | 현진              | [@zinnli](https://github.com/zinnli)                          |
 | [형준](https://nomadcoders.co/users/hyeongjoon)                     | 형준              | [@Kim-Hyeong-joon](https://github.com/Kim-Hyeong-joon)        |
-| [ffenland](https://nomadcoders.co/users/ffenland)                     | ffen              | [@ffenland](https://github.com/ffenland)        |
