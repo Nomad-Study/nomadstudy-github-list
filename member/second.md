@@ -14,7 +14,7 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 
 | Profile(NomadCoders)                                               | Nickname(Slack)  | Github                                                       |
 | ------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
-| [jaehunyou](https://nomadcoders.co/users/jaehunyou)                       | jaehunyou          | [@jaehunyou](https://github.com/jaehunyou)                       |
+| [jaehunyou](https://nomadcoders.co/users/jaehunyou)                       | jaehunyou          | [@jaehunyou](https://github.com/jaehunyou)          |
 | [Kyuhyun Lee](https://nomadcoders.co/users/khlee1992)              | 난코              | [@Nanco-L](https://github.com/Nanco-L)                       |
 | [Namyunha](https://nomadcoders.co/users/ajs998)                     | 남윤하            | [@Namyunha](https://github.com/Namyunha)        |
 | [notnormal8078](https://nomadcoders.co/users/notnormal8078)                     | 딘            | [@deanyoon](https://github.com/deanyoon)        |
@@ -24,4 +24,6 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [이승아](https://nomadcoders.co/users/lsa3117)                     | 승아             | [@seunga-lee](https://github.com/seunga-lee)        |
 | [이준우](https://nomadcoders.co/users/joonwoo8657)                       | BeeGye    | [@BeeGye](https://github.com/BeeGye)                       |
 | [정상원](https://nomadcoders.co/users/topcircle)                       | topcircle       | [@LifeFi](https://github.com/LifeFi)                       |
+| [김재원](https://nomadcoders.co/users/wodnjs3580-B7nYpr)                     | 김재원             | [@Jaewon94](https://github.com/Jaewon94)        |
+| [이승아](https://nomadcoders.co/users/lsa3117)                     | 승아             | [@seunga-lee](https://github.com/seunga-lee)        |
 | [조형석](https://nomadcoders.co/users/fluorjo)                       | 조형석             | [@fluorjo](https://github.com/fluorjo)                       |

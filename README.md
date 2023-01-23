@@ -43,8 +43,8 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [Gonan](https://nomadcoders.co/users/gonan)                        | Gonan            | [@YeeunKo](https://github.com/YeeunKo)                       |
 | [HAERANGMAN](https://nomadcoders.co/users/haerangman)              | HAERANGMAN       | [@HAERANGMAN](https://github.com/HAERANGMAN)                 |
 | [hyeongwookimdev](https://nomadcoders.co/users/hyeongwookim.dev)   | 김형우             | [@hyeongwookimdev](https://github.com/hyeongwookimdev)       |
-| [jaehunyou](https://nomadcoders.co/users/jaehunyou)                       | jaehunyou          | [@jaehunyou](https://github.com/jaehunyou)                       |
-| [jh lee](https://nomadcoders.co/users/gkgk545)                     | jhlee             | [@gkgk545](https://github.com/gkgk545)                       |
+| [jaehunyou](https://nomadcoders.co/users/jaehunyou)                | jaehunyou         | [@jaehunyou](https://github.com/jaehunyou)                  |
+| [jh lee](https://nomadcoders.co/users/gkgk545)                     | jhlee             | [@gkgk545](https://github.com/gkgk545)                      |
 | [Jia](https://nomadcoders.co/users/jangjia01234)                   | 장지아 Jia Jang    | [@jangjia01234](https://github.com/jangjia01234)             |
 | [Jinsu Kim](https://nomadcoders.co/users/jinskim)                  | Jinskim          | [@MeluvRose](https://github.com/MeluvRose)                   |
 | [K-AVLB](https://nomadcoders.co/users/mdj970930)                   | snailmin         | [@K-AVLB](https://github.com/K-AVLB)                         |
