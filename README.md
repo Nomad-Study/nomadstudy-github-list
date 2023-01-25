@@ -55,7 +55,7 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [Namyunha](https://nomadcoders.co/users/ajs998)                     | 남윤하            | [@Namyunha](https://github.com/Namyunha)        |
 | [notnormal8078](https://nomadcoders.co/users/notnormal8078)                     | 딘            | [@deanyoon](https://github.com/deanyoon)        |
 | [phsik3260](https://nomadcoders.co/users/phsik3260)                | 현식              | [@phsik3260](https://github.com/phsik3260)                   |
-| [sunyeong-jeong](https://nomadcoders.co/users/gardenia1109)        | SY               | [@gardenia0917](https://github.com/gardenia0917)              |
+| [sunyeong-jeong](https://nomadcoders.co/users/gardenia1109)        | SY               | [@calla1109](https://github.com/calla1109)              |
 | [YENA KWON](https://nomadcoders.co/users/ynkwon114ve29h)           | Yena Kwon        | [@beyondthedream](https://github.com/beyondthedream)         |
 | [zoocasso](https://nomadcoders.co/users/zoocasso)                  | zoocasso         | [@zoocasso](https://github.com/zoocasso)                     |
 | [김광윤](https://nomadcoders.co/users/leorivk)                       | null       | [@leorivk](https://github.com/leorivk)                       |
