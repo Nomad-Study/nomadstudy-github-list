@@ -23,7 +23,9 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 
 ## Nomad 10 Week Study
 
-**노마드 스터디가 궁금하다면 ?** [Check Out](https://nomadcoders.co/nomad-study)
+**노마드 *웹기초* 스터디가 궁금하다면 ?** [Check Out](https://nomadcoders.co/nomad-study)
+
+**노마드 *리엑트* 스터디가 궁금하다면 ?** [Check Out](https://nomadcoders.co/react-study)
 
 ## Repository Maintainer
 
