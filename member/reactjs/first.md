@@ -14,5 +14,5 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 
 | Profile(NomadCoders)                                               | Nickname(Slack)  | Github                                                       |
 | ------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
-| [devinan](https://nomadcoders.co/users/devinan.hr)                     | devinan              | [@devinan](https://github.com/devinan)        |
 | [BBAK_JUN](https://nomadcoders.co/users/bbakjun)                     | 빡준              | [@wnsguddl789](https://github.com/wnsguddl789)        |
+| [devinan](https://nomadcoders.co/users/devinan.hr)                     | devinan              | [@devinan](https://github.com/devinan)        |
