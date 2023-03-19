@@ -15,13 +15,13 @@ assignees: devinan
 **Ex-information:** Nico
 **NomadCoders Profile:** https://nomadcoders.co/users/serranoarevalo
 **Slack Nickname:** 니꼬
-**Nomad Study 기수:** 1기
+**Nomad Study 기수:** 웹 기초 1기
 -->
 
 **Ex-information:** _이전 정보 닉네임 또는 유저네임_
 
 **NomadCoders Profile:** _노마드코더 사이트 프로필 URL (ex. https://nomadcoders.co/users/serranoarevalo)_
 **Slack Nickname:** _노마드코더 슬랙 닉네임_
-**Nomad Study 기수:** _노마드 스터디 기수 (ex. 1기)_
+**Nomad Study 기수:** _노마드 스터디 기수 (ex. 웹 기초 3기, 리엑트 스터디 1기)_
 
 <!-- pull request를 이용해주세요!  -->
