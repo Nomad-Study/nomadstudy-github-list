@@ -39,6 +39,7 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 
 | Profile(NomadCoders)                                               | Nickname(Slack)  | Github                                                       |
 | ------------------------------------------------------------------ | ---------------- | ------------------------------------------------------------ |
+| [BBAK_JUN](https://nomadcoders.co/users/bbakjun)                     | 빡준              | [@wnsguddl789](https://github.com/wnsguddl789)        |
 | [Devinan](https://nomadcoders.co/users/devinan.hr)                 | devinan          | [@devinan](https://github.com/devinan)                       |
 | [Devxlnt](https://nomadcoders.co/users/devxlnt)                    | DevXLNT          | [@DevXLNT](https://github.com/DevXLNT)                       |
 | [ffenland](https://nomadcoders.co/users/ffenland)                     | ffen              | [@ffenland](https://github.com/ffenland)        |
@@ -74,4 +75,3 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [조형석](https://nomadcoders.co/users/fluorjo)                       | 조형석            | [@fluorjo](https://github.com/fluorjo)                        |
 | [현진](https://nomadcoders.co/users/hyunjin0376)                    | 현진              | [@zinnli](https://github.com/zinnli)                          |
 | [형준](https://nomadcoders.co/users/hyeongjoon)                     | 형준              | [@Kim-Hyeong-joon](https://github.com/Kim-Hyeong-joon)        |
-| [BBAK_JUN](https://nomadcoders.co/users/bbakjun)                     | 빡준              | [@wnsguddl789](https://github.com/wnsguddl789)        |
