@@ -17,3 +17,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [BBAK_JUN](https://nomadcoders.co/users/bbakjun)                     | 빡준              | [@wnsguddl789](https://github.com/wnsguddl789)        |
 | [devinan](https://nomadcoders.co/users/devinan.hr)                     | devinan              | [@devinan](https://github.com/devinan)        |
 | [이영민](https://nomadcoders.co/users/ws0671)                     | Orb              | [@ws0671](https://github.com/ws0671)        |
+| [타래](https://nomadcoders.co/users/tarae7)                     | 타래              | [@meowTarae](https://github.com/meowTarae)        |
