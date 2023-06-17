@@ -77,3 +77,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [조형석](https://nomadcoders.co/users/fluorjo)                       | 조형석            | [@fluorjo](https://github.com/fluorjo)                        |
 | [현진](https://nomadcoders.co/users/hyunjin0376)                    | 현진              | [@zinnli](https://github.com/zinnli)                          |
 | [형준](https://nomadcoders.co/users/hyeongjoon)                     | 형준              | [@Kim-Hyeong-joon](https://github.com/Kim-Hyeong-joon)        |
+| [타래](https://nomadcoders.co/users/tarae7)                     | 타래              | [@meowTarae](https://github.com/meowTarae)        |
