@@ -29,3 +29,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [이승아](https://nomadcoders.co/users/lsa3117)                     | 승아             | [@seunga-lee](https://github.com/seunga-lee)        |
 | [조형석](https://nomadcoders.co/users/fluorjo)                       | 조형석             | [@fluorjo](https://github.com/fluorjo)                       |
 | [조형석](https://nomadcoders.co/users/fluorjo)                       | 조형석             | [@fluorjo](https://github.com/fluorjo)                       |
+| [이영민](https://nomadcoders.co/users/ws0671)                     | Orb              | [@ws0671](https://github.com/ws0671)        |
