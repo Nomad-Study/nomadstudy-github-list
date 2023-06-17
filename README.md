@@ -76,3 +76,4 @@ Github list of [NomadCoders NomadStudy](https://nomadcoders.co/)
 | [현진](https://nomadcoders.co/users/hyunjin0376)                    | 현진              | [@zinnli](https://github.com/zinnli)                          |
 | [형준](https://nomadcoders.co/users/hyeongjoon)                     | 형준              | [@Kim-Hyeong-joon](https://github.com/Kim-Hyeong-joon)        |
 | [이영민](https://nomadcoders.co/users/ws0671)                     | Orb              | [@ws0671](https://github.com/ws0671)        |
+| [Youngha Kim](https://nomadcoders.co/users/ytok1108)                     | GlobalYoung              | [@YoungHaKim7](https://github.com/YoungHaKim7)        |
